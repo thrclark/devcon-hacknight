@@ -13,6 +13,7 @@ $page = 'template';
 <!-- Angular Core -->
 <script src="js/angular.min.js"></script>
 <script src="js/rice-angular-controllers.js"></script>
+<script src="js/services.js"></script>
 </head>
 
 <body>
@@ -73,6 +74,9 @@ $page = 'template';
                     </div>
                     <div class="tab-pane" id="completedActions"> </div>
                 </div>
+				<div ng-repeat="definition in processDefinitions">
+				  <span>{{definition.name}}</span>
+				</div>
             </main>
         </div>
     </div>
