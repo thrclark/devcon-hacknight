@@ -49,24 +49,24 @@ $page = 'template';
                             <table class="table table-condensed table-smaller-text table-bordered dataTable tablesaw-stack" data-mode="stack">
                                 <thead>
                                     <tr>
-                                        <th><span ng-click="predicate = 'DocId'; reverse=!reverse">Doc ID</span></th>
+                                        <th><span ng-click="predicate = 'id'; reverse=!reverse">Doc ID</span></th>
                                         <th><span ng-click="predicate = 'Type'; reverse=!reverse">Type</span></th>
                                         <th><span ng-click="predicate = 'Title'; reverse=!reverse">Title</span></th>
-                                        <th><span ng-click="predicate = 'Routing'; reverse=!reverse">Routing</span></th>
+                                        <th><span ng-click="predicate = 'state'; reverse=!reverse">Routing</span></th>
                                         <th><span ng-click="predicate = 'ActionRequest'; reverse=!reverse">Action Requested</span></th>
-                                        <th><span ng-click="predicate = 'Initiator'; reverse=!reverse">Initiator</span></th>
+                                        <th><span ng-click="predicate = 'initiatorId'; reverse=!reverse">Initiator</span></th>
                                         <th><span ng-click="predicate = 'CurrentRouteNode'; reverse=!reverse">Current Route Node</span></th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr ng-repeat="item in actionList | orderBy:predicate:reverse | filter:searchText">
-                                        <td class="item-featured">{{item.DocId}}</td>
-                                        <td>{{item.Type}}</td>
-                                        <td>{{item.Title}}</td>
-                                        <td>{{item.Routing}}</td>
-                                        <td>{{item.ActionRequest}}</td>
-                                        <td>{{item.Initiator}}</td>
-                                        <td>{{item.CurrentRouteNode}}</td>
+                                    <tr ng-repeat="item in processInstances | orderBy:predicate:reverse | filter:searchText">
+                                        <td class="item-featured">{{item.id}}</td>
+                                        <td><!--{{item.Type}}--></td>
+                                        <td><!--{{item.Title}}--></td>
+                                        <td>{{item.state}}</td>
+                                        <td><!--{{item.ActionRequest}}--></td>
+                                        <td>{{item.initiatorId}}</td>
+                                        <td><!--{{item.CurrentRouteNode}}--></td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -74,9 +74,6 @@ $page = 'template';
                     </div>
                     <div class="tab-pane" id="completedActions"> </div>
                 </div>
-				<div ng-repeat="definition in processDefinitions">
-				  <span>{{definition.name}}</span>
-				</div>
             </main>
         </div>
     </div>
