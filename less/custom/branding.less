@@ -1,0 +1,36 @@
+// Branding
+
+.logo {
+  float: left;
+  position: absolute;
+  width: 200px;
+  height: 69px;
+  background-image: @navbar-brand-image;
+  margin-left: 0px;
+
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+
+  @media (min-width: @grid-float-breakpoint) {
+    .navbar > .container &,
+    .navbar > .container-fluid & {
+      margin-left: 0px;
+    }
+  }
+}
+
+
+@media (max-width: @grid-float-breakpoint) {
+  .logo {
+    background-image:@navbar-brand-image-mobile;
+    display: block;
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    margin:0px;
+  }
+
+}

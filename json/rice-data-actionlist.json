@@ -1,0 +1,222 @@
+[
+  {
+    "DocId": 3280,
+    "Type": "Proposal Development Document",
+    "Title": "Cognitive Processin; Proposal No: 1; PI: HIRAM EUBANK; Sponsor: Food and Drug Administration; Due Date: 11/10/2014",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3283,
+    "Type": "KC Award",
+    "Title": "KC Award - Test Award",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3284,
+    "Type": "KC Award",
+    "Title": "KC Award",
+    "Routing": "Saved",
+    "ActionRequest": "FYI",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3285,
+    "Type": "KC Award",
+    "Title": "KC Award - Test Award",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3288,
+    "Type": "KC Protocol",
+    "Title": "KC Protocol - Thurman Protocol",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3291,
+    "Type": "KC Protocol",
+    "Title": "KC Protocol - Test",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "IRBReview",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3292,
+    "Type": "KC Protocol Review",
+    "Title": "KC Protocol Review - Slusar/Protocol# 1408000028",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "IRBAdminReview",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3293,
+    "Type": "KC Protocol Review",
+    "Title": "KC Protocol Review - Slusar/Protocol# 1408000028",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "OnlineReviewer",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3296,
+    "Type": "KC Institutional Proposal",
+    "Title": "KC Institutional Proposal - test institutional proposal",
+    "Routing": "Saved",
+    "ActionRequest": "FYI",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3298,
+    "Type": "Proposal Development Document",
+    "Title": "The effects of rese; Proposal No: 3; PI: Nicholas Majors; Sponsor: NIH; Due Date: null",
+    "Routing": "Saved",
+    "ActionRequest": "Aknowledge",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3303,
+    "Type": "KC Protocol",
+    "Title": "KC Protocol - vbvbv",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3309,
+    "Type": "Proposal Development Document",
+    "Title": "QA Test; Proposal No: 4; PI: admin admin; Sponsor: Air Force Systems - ESD; Due Date: 08/13/2014",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3311,
+    "Type": "KC Protocol",
+    "Title": "KC Protocol - Test Award",
+    "Routing": "Saved",
+    "ActionRequest": "Aknowledge",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3315,
+    "Type": "KC Protocol",
+    "Title": "KC Protocol - Test IRB Protocol - rls",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "IRBReview",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3316,
+    "Type": "KC Protocol Review",
+    "Title": "KC Protocol Review - MCAFEE/Protocol# 1408000060",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "OnlineReviewer",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3321,
+    "Type": "KC Institutional Proposal",
+    "Title": "KC Institutional Proposal - QA Test",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3322,
+    "Type": "KC Protocol",
+    "Title": "KC Protocol - Test",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3326,
+    "Type": "KC Institutional Proposal",
+    "Title": "KC Institutional Proposal - Test",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3328,
+    "Type": "KC Award",
+    "Title": "KC Award - QA Test",
+    "Routing": "Enroute",
+    "ActionRequest": "Approve",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3341,
+    "Type": "KC IACUC Protocol",
+    "Title": "KC IACUC Protocol - 8/12 test src descr",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3355,
+    "Type": "Proposal Development Document",
+    "Title": "Investigator-Initia; Proposal No: 10; PI: null; Sponsor: U.S. Department of Justice; Due Date: null",
+    "Routing": "Saved",
+    "ActionRequest": "Aknowledge",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  },
+  {
+    "DocId": 3357,
+    "Type": "Proposal Development Document",
+    "Title": "Testing S2S; Proposal No: 11; PI: Inez Chew; Sponsor: NASA - Ames Research Center; Due Date: null",
+    "Routing": "Saved",
+    "ActionRequest": "Complete",
+    "Initiator": null,
+    "CurrentRouteNode": "Initiated",
+    "ViewDetails": null
+  }
+]
